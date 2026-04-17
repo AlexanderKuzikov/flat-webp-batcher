@@ -1,0 +1,20 @@
+{
+  "name": "flat-webp-batcher",
+  "version": "1.0.0",
+  "description": "Пакетная обработка изображений из вложенных папок с фильтрацией по количеству файлов, ресайзом по ширине и конвертацией в WebP.",
+  "license": "Apache-2.0",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "bin": {
+    "flat-webp-batcher": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "sharp": "^0.34.0"
+  }
+}

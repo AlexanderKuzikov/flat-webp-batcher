@@ -1,0 +1,19 @@
+{
+  "inputDir": "C:\-=Букеты=-\1. Парсинг",
+  "outputDir": "C:\-=Букеты=-\2. Предварительный отбор с 6",
+  "maxWidth": 1024,
+  "webpQuality": 75,
+  "minImagesInFolder": 6,
+  "concurrency": 0,
+  "supportedExtensions": [
+    ".jpg",
+    ".jpeg",
+    ".png",
+    ".webp",
+    ".tif",
+    ".tiff",
+    ".bmp",
+    ".gif",
+    ".avif"
+  ]
+}
